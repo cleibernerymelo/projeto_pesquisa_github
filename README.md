@@ -18,4 +18,5 @@ Este repositorio foi criado para pesquisa de estudo sobre as funcionalidades do 
 ![Logo do GitHub](img/transferir.png)
 
 #### Links importantes
-[fonte de pesquisa](https://www.google.com/)
+[Google](https://www.google.com/)
+Contribuidor principal: https://github.com/cleibernerymelo
